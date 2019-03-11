@@ -1,9 +1,6 @@
-iot-workshop
-============
+# IoT Workshop
 
-IoT Workhop Demo Project
+This project contains example flows for showing the posibilities
+of Node-RED as a central controller for an automation system.
 
-### About
-
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+Author: Oliver Hruby, oliver.hruby@accenture.com
